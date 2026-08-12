@@ -1,4 +1,4 @@
-echo "streamlit==1.32.2" > requirements.txt
-echo "pandas==2.2.1" >> requirements.txt
-echo "openpyxl==3.1.2" >> requirements.txt
-echo "xlrd==2.0.1" >> requirements.txt
+streamlit
+pandas
+openpyxl
+xlrd
